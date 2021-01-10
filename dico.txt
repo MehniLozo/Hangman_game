@@ -36,10 +36,9 @@ buzzwords
 caliph
 pyjama
 quizzes
-
-    zilch
-    zipper
-    zodiac
-    zombie
+zilch
+zipper
+zodiac
+zombie
 
 
